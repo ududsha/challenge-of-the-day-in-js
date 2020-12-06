@@ -1,2 +1,2 @@
 # challenge-of-the-day-in-js
-I am solving your problems and challenges using JavaScript, who is my next challenge of the day?
+I will solve your problems and challenges using JavaScript, bring me your next challenge of the day?
